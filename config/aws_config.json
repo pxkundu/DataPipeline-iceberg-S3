@@ -1,0 +1,5 @@
+{
+  "region": "us-east-1",
+  "s3_bucket": "my-iceberg-data-lake",
+  "glue_database": "iceberg_db"
+}
