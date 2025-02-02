@@ -13,7 +13,8 @@ This project demonstrates how to use **Apache Iceberg** with **AWS S3, AWS Glue,
 ---
 
 ## 📂 Project Structure
-.
+
+```
 ├── infrastructure   # Terraform scripts for AWS setup
 │   ├── main.tf
 │   ├── glue_catalog.tf
@@ -45,7 +46,7 @@ This project demonstrates how to use **Apache Iceberg** with **AWS S3, AWS Glue,
 │   ├── architecture_diagram.png
 │   ├── troubleshooting.md
 └── README.md        # Project documentation
-
+```
 ---
 
 ## 🚀 **Setup Guide**
@@ -206,7 +207,6 @@ This project is licensed under the **MIT License**.
 ---
 
 ### **🚀 Happy Data Engineering with Apache Iceberg & AWS! 🎉**
-```
 
 ---
 
